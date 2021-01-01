@@ -1,1 +1,2 @@
-# ShinChan_0.1_A.R.K
+# p5.play-boilerplate
+Boiler plate for p5.play
